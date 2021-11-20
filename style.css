@@ -1,0 +1,36 @@
+#body{background-image: linear-gradient(to left,green,yellow);}
+tbody tr:nth-last-child(even)
+    {background-color: deepskyblue;}
+.table {
+    background-color: dimgray;
+    border-collapse: collapse;
+    border: 3px solid rebeccapurple;
+    width: 80%;
+    height: auto;
+}
+.tb1{
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkblue;
+}
+.tb2{
+    background-color: grey;
+    border-collapse: collapse;
+    font-size: 30px;
+    border: 3px solid rebeccapurple;
+    width: 80%;
+    height: auto;
+}
+
+.kotak{
+	background: #fcfcfc;
+	padding: 20px;
+	width: 200px;
+	float: left;
+	margin: 20px;
+	height: 200px;
+}
+
+.kotak1{
+	border-radius: 10px 10px 10px 10px;
+}
